@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Fasiall/Fasiall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- BANNER HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Faisal!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
+  <!-- BADGES / VIEWS -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Fasiall&label=Profile%20Views&color=007ACC&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/github/followers/Fasiall?label=Followers&style=flat-square&color=007ACC" alt="Followers" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Faisal
+role: Informatics Student / Software Developer
+learning: Java, C++, Systems Architecture, PostgreSQL
+interests: Operating Systems, Backend Development, & Technical Architecture
