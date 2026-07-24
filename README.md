@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Faisal!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Faisal!%20&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <!-- BADGES / VIEWS -->
   <p>
@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Faisal
-role: Informatics Student / Software Developer
+Name: Faisal H. Sinambela
+role: Informatics Student
 learning: Java, C++, Systems Architecture, PostgreSQL
 interests: Operating Systems, Backend Development, & Technical Architecture
