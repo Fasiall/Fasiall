@@ -20,7 +20,7 @@
     <td width="55%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 Informatics Engineering student.</b>.</li>
+        <li>🎓 <b>Informatics Engineering student</b>.</li>
         <li>💻 <b>UI/UX Design</b>.</li>
         <li>💻 <b>Frontend Development</b>.</li>
       </ul>
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
- 
   <img src="https://img.shields.io/badge/Blackbox%20AI-000000?style=for-the-badge&logo=blackbox&logoColor=white" />
 </div>
 
