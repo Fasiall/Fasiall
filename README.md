@@ -21,14 +21,13 @@
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🎓 Mahasiswa <b>Teknik Informatika</b>.</li>
-        <li>💻 Fokus saya ke <b>UI/UX Design</b> dan <b>Frontend Development</b>.</li>
-        <li>🎨 Suka merancang antarmuka web yang intuitif dan estetik.</li>
+        <li>💻 <b>UI/UX Design</b>.</li>
+        <li>💻 <b>Frontend Development</b>.</li>
       </ul>
     </td>
     <td width="45%" valign="top">
       <h3>🔍 Connect with Me</h3>
       <div align="center">
-        <!-- Jangan lupa ganti email dan username sosial media di bawah ini -->
         <a href="mailto:faisalnambela@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://linkedin.com/in/usernamekamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       </div>
