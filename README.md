@@ -20,7 +20,7 @@
     <td width="55%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 Mahasiswa <b>Teknik Informatika</b>.</li>
+        <li>🎓 Informatics Engineering student.</b>.</li>
         <li>💻 <b>UI/UX Design</b>.</li>
         <li>💻 <b>Frontend Development</b>.</li>
       </ul>
