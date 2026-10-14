@@ -49,26 +49,4 @@
 
 <br>
 
----
 
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Fasiall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasiall&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" height="180" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fasiall&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</div>
