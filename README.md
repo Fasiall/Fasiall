@@ -5,11 +5,10 @@
 <br>
 
 <div align="center">
-  <h3>✨ Informatics Student | UI/UX Designer & Frontend Enthusiast ✨</h3>
+  <h3> Informatics Student | UI/UX Designer & Frontend Enthusiast </h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Fasiall&label=Profile%20Views&color=007ACC&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/followers/Fasiall?label=Followers&style=flat-square&color=007ACC" alt="Followers" />
   </p>
 </div>
 
