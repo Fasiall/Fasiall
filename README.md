@@ -17,7 +17,7 @@
 <table align="center" width="100%" border="0">
   <tr>
     <td width="55%" valign="top">
-      <h3>👨‍💻 About Me</h3>
+      <h3> About Me</h3>
       <ul>
         <li>🎓 <b>Informatics Engineering student</b>.</li>
         <li>💻 <b>UI/UX Design</b>.</li>
