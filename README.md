@@ -16,15 +16,6 @@
 
 <table align="center" width="100%" border="0">
   <tr>
-    <td width="55%" valign="top">
-      <h3> About Me</h3>
-      <ul>
-        <li>🎓 <b>Informatics Engineering student</b>.</li>
-        <li>💻 <b>UI/UX Design</b>.</li>
-        <li>💻 <b>Frontend Development</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
       <h3>🔍 Connect with Me</h3>
       <div align="center">
         <a href="mailto:faisalnambela@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
