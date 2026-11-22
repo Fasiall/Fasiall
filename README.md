@@ -15,8 +15,7 @@
 ---
 
 <table align="center" width="100%" border="0">
-  <tr>
-      <h3>🔍 Connect with Me</h3>
+      <h3> Connect with Me</h3>
       <div align="center">
         <a href="mailto:faisalnambela@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://linkedin.com/in/usernamekamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -27,7 +26,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center"> Tech Stack & Tools</h3>
 
 <div align="center">
   <!-- UI/UX & Frontend -->
