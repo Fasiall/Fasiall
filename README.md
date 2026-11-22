@@ -14,8 +14,7 @@
 
 ---
 
-<table align="center" width="100%" border="0">
-      <h3> Connect with Me</h3>
+<h3 align="center"> Connect with Me</h3>
       <div align="center">
         <a href="mailto:faisalnambela@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://linkedin.com/in/usernamekamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,7 +28,6 @@
 <h3 align="center"> Tech Stack & Tools</h3>
 
 <div align="center">
-  <!-- UI/UX & Frontend -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
